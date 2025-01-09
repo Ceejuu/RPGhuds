@@ -14,6 +14,7 @@ import org.bukkit.ChatColor;
 import org.bukkit.entity.Player;
 import org.bukkit.scheduler.BukkitTask;
 import org.jetbrains.annotations.Nullable;
+import dev.lone.rpghuds.core.data.SkyHud;
 
 import java.io.File;
 import java.io.IOException;
